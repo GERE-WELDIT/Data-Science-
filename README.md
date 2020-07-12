@@ -1,2 +1,2 @@
 # Data-Science
-Data Science internship codes using python and Jupyter notebook.
+Data Science intern projects with python codes & Jupyter notebook.
